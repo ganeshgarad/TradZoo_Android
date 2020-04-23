@@ -31,15 +31,15 @@
                     android:paddingTop="32dp"
                     android:paddingBottom="32dp"
                     android:background="@color/buy_shade_transparent">
+
                     <TextView
                         android:id="@+id/tradeOptionOne"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="+20 Points"
                         android:textAlignment="center"
-                        android:textSize="18sp"
                         android:textColor="@android:color/white"
-                        />
+                        android:textSize="18sp" />
                     <TextView
                         android:id="@+id/tradeOptionOneCaption"
                         android:layout_width="match_parent"
