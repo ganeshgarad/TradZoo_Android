@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--    Intro Screen -->
+    <color name="title_color">#707070</color>
+    <color name="description_color">#707070</color>
+    <color name="button_color">#2689D9</color>
+    <color name="active_indicator_color">#1B0948</color>
+    <color name="inactive_indicator_color">#2095D8</color>
+
+<!--    Button Color-->
+    <color name="blue_btn_start_color">#2783D9</color>
+    <color name="blue_btn_end_color">#2A31BC</color>
+    <color name="green_btn_start_color">#B1BF14</color>
+    <color name="green_btn_end_color">#7C8D1B</color>
+<!--    Transparent Colors-->
+    <color name="blue_transparent_color">#802783D9</color>
+    <color name="green_transparent_color">#80B1BF14</color>
+
+<!--    Card Shade-->
+    <color name="trade_shade_transparent">#D78B7FDD</color>
+    <color name="sell_shade_transparent">#D7E11B1B</color>
+    <color name="buy_shade_transparent">#B9038518</color>
+</resources>

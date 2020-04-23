@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TradZoo</string>
+
+    <!--    Intro Page Containt-->
+    <string name="slide_one_title">We research for you</string>
+    <string name="slide_two_title">We research for you</string>
+    <string name="slide_three_title">We research for you</string>
+    <string name="slide_one_desc">Our all calls is based on fundamental and technical aspect of the particular stock. It will increase the accuracy of out call to be successes.</string>
+    <string name="slide_two_desc">Our all calls is based on fundamental and technical aspect of the particular stock. It will increase the accuracy of out call to be successes.</string>
+    <string name="slide_three_desc">Our all calls is based on fundamental and technical aspect of the particular stock. It will increase the accuracy of out call to be successes.</string>
+</resources>
